@@ -7,13 +7,11 @@ import com.xebia.fs101.designpatterns.creational.abstract_factory_pattern.checkb
 
 public class MacOsFactory implements GUIFactory {
 
-    @Override
     public Button createButton() {
 
         return new MacOsButton();
     }
 
-    @Override
     public Checkbox createCheckbox() {
 
         return new MacOsCheckBox();

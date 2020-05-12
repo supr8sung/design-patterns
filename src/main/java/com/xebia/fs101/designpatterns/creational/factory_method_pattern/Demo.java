@@ -16,7 +16,6 @@ public class Demo {
 
     private static void configure() {
 
-
         if (System.getProperty("os.name").equals("Mac OS X"))
             dialog = new WindowsDialog();
         else

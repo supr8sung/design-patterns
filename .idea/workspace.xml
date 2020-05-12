@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f0476b8-5635-40b9-8014-248e6cc71c73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/builders/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/builders/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/builders/CarManualBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/cars/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/cars/Manual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/cars/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/components/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/components/GPSNavigator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/components/Transmission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/components/TripComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/director/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/prototype_pattern/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/prototype_pattern/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/prototype_pattern/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/prototype_pattern/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/singleton_pattern/non_thread_safe/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/singleton_pattern/non_thread_safe/multi_threaded/DemoMultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/singleton_pattern/non_thread_safe/single_threaded/DemoSingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/singleton_pattern/thread_safe/DemoMultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/singleton_pattern/thread_safe/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/xebia/fs101/designpatterns/creational/singleton_pattern/non_thread_safe/DemoSingleThreadTest.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/abstract_factory_pattern/factories/MacOsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/abstract_factory_pattern/factories/MacOsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/abstract_factory_pattern/factories/WindowsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/abstract_factory_pattern/factories/WindowsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/factory_method_pattern/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/factory_method_pattern/Demo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +53,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -34,10 +68,26 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/singleton_pattern" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.xebia.fs101.designpatterns.creational.singleton_pattern.non_thread_safe" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xebia.fs101.designpatterns.creational.singleton_pattern.thread_safe" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,25 +101,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xebia.fs101.designpatterns.creational.abstract_factory_pattern.Demo" />
+  <component name="RunManager" selected="Application.DemoMultiThread (1)">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xebia.fs101.designpatterns.creational.builder_pattern.Demo" />
       <module name="design-patterns.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xebia.fs101.designpatterns.creational.factory_method_pattern.Demo" />
+    <configuration name="DemoMultiThread (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xebia.fs101.designpatterns.creational.singleton_pattern.thread_safe.DemoMultiThread" />
       <module name="design-patterns.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoMultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xebia.fs101.designpatterns.creational.singleton_pattern.non_thread_safe.multi_threaded.DemoMultiThread" />
+      <module name="design-patterns.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoSingleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xebia.fs101.designpatterns.creational.singleton_pattern.non_thread_safe.single_threaded.DemoSingleThread" />
+      <module name="design-patterns.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoSingleThreadTest.testName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.xebia.fs101.designpatterns.creational.singleton_pattern.non_thread_safe.DemoSingleThreadTest.testName&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.DemoMultiThread (1)" />
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.DemoMultiThread" />
+        <item itemvalue="Gradle.DemoSingleThreadTest.testName" />
+        <item itemvalue="Application.DemoSingleThread" />
       </list>
     </recent_temporary>
   </component>
@@ -99,5 +193,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/Demo.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xebia/fs101/designpatterns/creational/builder_pattern/director/Director.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
